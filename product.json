@@ -1,0 +1,7 @@
+[
+    {"name":"mouse","price":500,"qty":4,"vendor":"Dell India"},
+    {"name":"apple","price":1000,"qty":3,"vendor":"abc enterprice"},
+    {"name":"Mango","price":2000,"qty":6,"vendor":"xyz enterprice"},
+    {"name":"Java","price":7000,"qty":7,"vendor":"Dell enterprice"},
+    {"name":"Laptop","price":5000,"qty":9,"vendor":"lenovo enterprice"}
+]
